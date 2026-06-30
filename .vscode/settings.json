@@ -1,0 +1,5 @@
+{
+  "telemetry.telemetryLevel": "off",
+  "python.testing.pytestEnabled": true,
+  "editor.formatOnSave": true
+}
